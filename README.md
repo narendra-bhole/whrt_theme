@@ -1,2 +1,7 @@
-# whrt_theme
-Erpnext White Rays Theme
+## Whrt Theme
+
+Erpnext Custom Theme
+
+#### License
+
+mit
