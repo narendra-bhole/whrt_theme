@@ -177,6 +177,9 @@ app_include_css = "/assets/whrt_theme/css/whrt_theme.css"
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "whrt_theme.event.get_events"
 # }
+override_whitelisted_methods = {
+    "frappe.core.doctype.user.user.switch_theme": "whrt_theme.overrides.switch_theme.switch_theme"
+}
 #
 # each overriding function accepts a `data` argument;
 # generated from the base implementation of the doctype dashboard,
