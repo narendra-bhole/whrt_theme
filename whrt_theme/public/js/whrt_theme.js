@@ -19,8 +19,8 @@ frappe.ui.ThemeSwitcher = class CustomThemeSwitcher extends frappe.ui.ThemeSwitc
 				},
 				{
 					name: "whrt_theme",
-					label: __("Business_Blue"),
-					info: __("Mainly used for Erpnext"),
+					label: __("WHRT Theme"),
+					info: __("WHRT Custom"),
 				},
 				{
 					name: "automatic",
