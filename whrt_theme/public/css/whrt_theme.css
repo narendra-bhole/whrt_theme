@@ -583,3 +583,6 @@ span.sidebar-item-label.selected {
     color: white;
 }
 
+.list-row:hover:not(.list-row-head) {
+    background-color: rgb(9, 16, 87);
+}
