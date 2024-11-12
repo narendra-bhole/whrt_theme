@@ -477,3 +477,110 @@ div.widget.spacer{
 span.sidebar-item-label.selected {
     color: black;
 }
+
+.point-of-sale-app section { 
+	min-height: 40rem !important;
+}
+
+.client-wrapper ul {
+	padding-left: 22px;
+	margin-top: 0; 
+	margin-bottom:0;
+}
+
+.client-wrapper li {
+  float: left;
+  list-style-type: none;
+}
+
+.client-wrapper li a { 
+	display: inline-block;
+	text-decoration: none;
+	width: 100%; 
+	background-color: var(--gray-300) !important; 
+	color: black; 
+	text-align: center;
+}
+
+.client-wrapper li a.plus-pos, .client-wrapper li a.plus-pos:focus, .client-wrapper li a.plus-pos:hover{
+        background-color: var(--gray-400) !important;
+}
+
+.client-wrapper li a.minus-pos, .client-wrapper li a.minus-pos:focus, .client-wrapper li a.minus-pos:hover{
+	background-color: var(--red-400) !important;
+}
+
+.client-wrapper li a:focus,
+.client-wrapper li a:hover {
+  background-color: var(--gray-400) !important;
+  color: black;
+}
+
+.client-wrapper li a.active {
+  background-color:  white !important;
+  color: black;
+}
+
+.ce-block a {
+    color: white;
+}
+
+.ce-block a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.ce-block a.active {
+    color: rgb(0, 0, 0);
+}
+
+.layout-main-section .msg-box p{
+    color: white;
+}
+
+.help-box{
+    color: white !important;
+}
+
+.standard-sidebar .standard-sidebar-item{
+    color: white;
+}
+
+.standard-sidebar .standard-sidebar-item{
+    color: white;
+}
+
+.standard-sidebar .standard-sidebar-item{
+    background-color: white;
+}
+
+.codex-editor .codex-editor__redactor .ce-block .ce-header b {
+    color: white;
+}
+
+.standard-sidebar-item.active{
+    color: black !important;
+}
+
+.layout-side-section .sidebar-menu > li > a {
+    color: white;
+}
+
+.codex-editor .codex-editor__redactor .ce-block .ce-block__content .widget.edit-mode{
+    color: white ;
+}
+
+[data-page-route=Workspaces] .codex-editor .codex-editor__redactor .ce-block .ce-block__content .widget.edit-mode{
+    background-color: rgb(64, 126, 207) ;
+}
+
+[data-page-route=Workspaces] .layout-main .layout-main-section.edit-mode .links-widget-box {
+    background-color: rgb(64, 126, 207) !important;
+}
+
+.desk-sidebar .standard-sidebar-item svg{
+    color: white;
+}
+
+.widget.shortcut-widget-box{
+    padding: 5px;
+}
