@@ -542,16 +542,10 @@ span.sidebar-item-label.selected {
 }
 
 .standard-sidebar .standard-sidebar-item{
-    color: white;
-}
-
-.standard-sidebar .standard-sidebar-item{
-    color: white;
-}
-
-.standard-sidebar .standard-sidebar-item{
     background-color: white;
 }
+
+
 
 .codex-editor .codex-editor__redactor .ce-block .ce-header b {
     color: white;
@@ -584,3 +578,8 @@ span.sidebar-item-label.selected {
 .widget.shortcut-widget-box{
     padding: 5px;
 }
+
+.checkbox .label-area{
+    color: white;
+}
+
