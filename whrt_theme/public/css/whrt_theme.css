@@ -583,18 +583,3 @@ span.sidebar-item-label.selected {
     background-color: rgb(9, 16, 87);
 }
 
-.widget.onboarding-widget-box .widget-body .onboarding-step-preview .onboarding-step-body p {
-    background-color: white !important;
-} 
-
-.onboarding-step-body {
-    color: white !important;
-}
-
-p{
-    color: white;
-}
-
-.badge-link {
-    background-color:rgb(64, 126, 207) ;
-}
