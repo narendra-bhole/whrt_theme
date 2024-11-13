@@ -602,6 +602,6 @@ pre code{
     color: rgb(87, 8, 87);
 }
 
-.onboarding-step-body {
+.widget.onboarding-widget-box .widget-body .onboarding-step-preview .onboarding-step-body {
     color: white;
 }
