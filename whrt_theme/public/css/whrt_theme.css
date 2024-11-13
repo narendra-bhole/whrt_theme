@@ -601,3 +601,7 @@ code {
 pre code{
     color: rgb(87, 8, 87);
 }
+
+.onboarding-step-body {
+    color: white;
+}
