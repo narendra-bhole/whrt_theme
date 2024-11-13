@@ -359,10 +359,6 @@ symbol#icon-small-down{
     color: white;
 }
  
-.list-row-col a:hover {
-    color: black;
-}
- 
 .icon-md{
     stroke: white;
     stroke-width: 1px;
@@ -585,4 +581,20 @@ span.sidebar-item-label.selected {
 
 .list-row:hover:not(.list-row-head) {
     background-color: rgb(9, 16, 87);
+}
+
+.widget.onboarding-widget-box .widget-body .onboarding-step-preview .onboarding-step-body p {
+    background-color: white !important;
+} 
+
+.onboarding-step-body {
+    color: white !important;
+}
+
+p{
+    color: white;
+}
+
+.badge-link {
+    background-color:rgb(64, 126, 207) ;
 }
