@@ -583,3 +583,21 @@ span.sidebar-item-label.selected {
     background-color: rgb(9, 16, 87);
 }
 
+.badge-link {
+    background-color:white;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+}
+
+.form-dashboard-section{
+    background-color: rgb(64, 126, 207);
+}
+
+code {
+    color: rgb(112, 27, 27);
+}
+
+pre code{
+    color: rgb(87, 8, 87);
+}
