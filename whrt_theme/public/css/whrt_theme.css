@@ -605,3 +605,55 @@ pre code{
 .widget.onboarding-widget-box .widget-body .onboarding-step-preview .onboarding-step-body {
     color: white;
 }
+
+.frappe-control .unit-checkbox input[type=checkbox]{
+    border: 2px solid rgb(0, 0, 0);
+}
+
+input[type=checkbox] {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: rgb(71, 145, 241);
+}
+
+.new-timeline .timeline-item b{
+    color: rgb(71, 145, 241);
+}
+
+.form-grid{
+    border-radius: 25%;
+}
+
+.form-layout{
+    border-radius: 25%;
+}
+
+.es-icon {
+       stroke:white;
+}
+
+use.like-icon{
+    stroke: white;
+}
+
+.layout-main-section{
+    border-radius: 2%;
+}
+
+nav.navbar_navbar-light_navbar-expand-lg{
+    background-color:rgb(236, 131, 5) ;
+}
+
+#page-login {
+    background-color: black;
+}
+
+.p-3 {
+    color: white;
+}
