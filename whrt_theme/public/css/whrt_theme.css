@@ -657,3 +657,35 @@ nav.navbar_navbar-light_navbar-expand-lg{
 .p-3 {
     color: white;
 }
+
+.attached-file-link {
+    color: black;
+}
+
+.file-upload-area {
+    background-color:rgb(63, 122, 200) !important ;
+}
+
+.mt-1 {
+    color: white;
+}
+
+div.text-center {
+    color: white;    
+}
+
+h6 {
+    color: black;
+}
+
+svg.es-icon.es-line.icon-sm {
+    stroke: black !important;
+}
+
+div.static-area.ellipsis {
+    color: black;
+}
+
+.data-row a {
+    color: black;
+}
