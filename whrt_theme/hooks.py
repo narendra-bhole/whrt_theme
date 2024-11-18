@@ -27,7 +27,8 @@ app_license = "mit"
 # include js, css files in header of desk.html
 app_include_css = "/assets/whrt_theme/css/whrt_theme.css"
 app_include_js = "/assets/whrt_theme/js/whrt_theme.js"
-fixtures = ["Website Theme"]
+after_install = "whrt_theme.install.apply_website_theme"
+
 
 # include js, css files in header of web template
 # web_include_css = "/assets/whrt_theme/css/whrt_theme.css"
