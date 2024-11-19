@@ -29,6 +29,11 @@ app_include_css = "/assets/whrt_theme/css/whrt_theme.css"
 app_include_js = "/assets/whrt_theme/js/whrt_theme.js"
 fixtures = ["Website Theme"]
 
+doc_events = {
+    "Website Theme": {
+        "after_insert": "whrt_theme.whrt_after_install"
+    }
+}
 
 # include js, css files in header of web template
 # web_include_css = "/assets/whrt_theme/css/whrt_theme.css"
